@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabi-rogers23" alt="gabi-rogers23" /></a> </p>
 
-- 🔭 I’m currently working on [Website Refresh for Trace Diagnostics](https://github.com/gabi-rogers23/trace_diagnostics)
+- 🔭 I’m currently working on [Website Refresh for Trace Diagnostics.](https://github.com/gabi-rogers23/trace_diagnostics)
 
 - 🌱 I’m currently learning **more about Data Structures.**
 
