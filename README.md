@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **contact@gabriellerogers.io**.
 
-- ⚡ Fun fact: **I do taxidermy for the Peggy Notebaert Nature Museum!**.
+- ⚡ Fun fact: **I do taxidermy for the Peggy Notebaert Nature Museum!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
