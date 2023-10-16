@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabrielle </h1>
 <h3 align="center">A creative fullstack developer!</h3>
 
-- 🔭 I’m currently working on [Website Refresh for Trace Diagnostics.](https://github.com/gabi-rogers23/trace_diagnostics)
+- 🔭 I’m currently looking for a new job!
 
 - 🌱 I’m currently learning **more about Data Structures.**
 
