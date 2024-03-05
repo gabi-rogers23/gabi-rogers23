@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabrielle </h1>
 <h3 align="center">A creative fullstack developer!</h3>
 
-- 🔭 I’m currently looking for a new job!
-
 - 🌱 I’m currently learning **more about Data Structures.**
 
 - 👨‍💻 My personal site is [https://gabriellerogers.io](https://gabriellerogers.io).
